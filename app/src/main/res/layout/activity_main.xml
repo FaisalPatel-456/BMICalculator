@@ -136,6 +136,7 @@
             android:layout_marginBottom="20dp"
             android:layout_marginStart="20dp"
             android:layout_marginEnd="20dp"
+            android:thumbTint="@android:color/white"
             android:progressTint="#ff4c4c"/>
 
     </RelativeLayout>
